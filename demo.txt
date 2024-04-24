@@ -2,4 +2,8 @@ hello
 haii
 i just added
 wow
+<<<<<<< HEAD
 navya ammend some changes to this means
+=======
+hai sandra
+>>>>>>> 97b5ad6b383a8b125df4dfd911fcc8ba1025117e
